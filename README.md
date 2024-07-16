@@ -13,3 +13,15 @@
 8. Update the main.py
 9. Update the dvc.yaml
 
+
+Run this to export as env variables:
+
+```bash
+
+export MLFLOW_TRACKING_URI=https://dagshub.com/
+
+export MLFLOW_TRACKING_USERNAME=
+
+export MLFLOW_TRACKING_PASSWORD=
+50b0ed6a7fd82c61e7f5ab6914bb8f551d47a38b
+```
